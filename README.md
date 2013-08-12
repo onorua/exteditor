@@ -19,3 +19,9 @@ How to build
 Make sure you have perl and zip installed on your system and run:
 
     make
+
+Mozilla's doc
+=============
+
+* https://developer.mozilla.org/en-US/docs/XUL
+
