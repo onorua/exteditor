@@ -438,8 +438,8 @@ function initButton(editorExe, editHtmlAsHtml) {
 function isEditAsHtml() {
     // why is this checked attribute returned as a string rather than as a bool ???
     return (
-        IsHTMLEditor() && 
-        document.getElementById('exteditor_editAsHtml').getAttribute('checked') == "true"
+        IsHTMLEditor()// && 
+        //document.getElementById('exteditor_editAsHtml').getAttribute('checked') == "true"
     );
 }
 
